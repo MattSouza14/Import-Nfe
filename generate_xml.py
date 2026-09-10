@@ -388,7 +388,7 @@ map_setor = {
     "Outros": [{"id":"3","nome":"Uso, Consumo ou Desp"}, {"id":"3","nome":"Administração"}, {"id":"37","nome":"Atv. Administrativa"}],
     "21167": [{"id": "3", "nome": "Uso, Consumo ou Desp"},{"id": "18", "nome": "Logistica"}, {"id": "37", "nome": "Atv. Administrativa"}],
     "21167": [{"id": "3", "nome": "Uso, Consumo ou Desp"},{"id": "18", "nome": "Logistica"}, {"id": "4876", "nome": "Placas - Linha Normal"}],
-    "101296": [{"id": 3, "nome": "Uso, Consumo ou Desp"}, {"id": "173", "nome": "Casa de Apoio"}, None],  # TODO: preencher finalidade/centroDeCustos reais
+    "101296": [{"id": "3", "nome": "Uso, Consumo ou Desp"}, {"id": "173", "nome": "Casa de Apoio"}, None],  # TODO: preencher finalidade/centroDeCustos reais
 }
 
 CNPJs = ['05635589000118', '05635589000207', '02974336000342']
